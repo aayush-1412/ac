@@ -1,6 +1,7 @@
 
 # Personal Blog PlatForm
 Project Live link-[Ac-Blogs](https://ac-blogs.vercel.app/)
+
 A blog website built using NextJs 14 at Frontend and NodeJs, and ExpressJs at Backend with MongoDB as a Database.
 
 
@@ -11,6 +12,7 @@ A blog website built using NextJs 14 at Frontend and NodeJs, and ExpressJs at Ba
 - Option to Edit and Delete Blogs (CRUD functionality)
 - Client-side routing and protected routes.
 - JWT Authentication for Backend API
+- Resposive UI
 
 
 ## Environment Variables
