@@ -1,7 +1,7 @@
 
 # Personal Blog PlatForm
-
-A blog website built using NextJs 14 at Frontend and NodeJs,ExpressJs at Backend with MongoDB as Database.
+Project Live link-[Ac-Blogs](https://ac-blogs.vercel.app/)
+A blog website built using NextJs 14 at Frontend and NodeJs, and ExpressJs at Backend with MongoDB as a Database.
 
 
 
@@ -40,7 +40,7 @@ This repo contains both the frontend and Backend code.
   npm install
   npm run dev
 ```
-* Open another terminal to simultaneously run your backend
+* Open another terminal to run your backend simultaneously
  ```bash
   cd backend
   npm install
